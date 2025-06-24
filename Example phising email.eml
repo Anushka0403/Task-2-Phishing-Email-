@@ -1,0 +1,45 @@
+Return-Path: <it-support@contos0.com>
+Received: from mail.contos0.com ([192.0.2.100]) by mail.yourcompany.com with ESMTP;
+    Tue, 24 Jun 2025 11:45:01 +0000
+Date: Tue, 24 Jun 2025 11:45:01 +0000
+From: IT Support <it-support@contos0.com>
+Reply-To: support@contos0-reset.com
+To: employee@yourcompany.com
+Subject: Urgent: Password Reset Required Immediately
+Message-ID: <reset2025@contos0.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear employee,
+
+We have detected unusual activity on your email account. For your safety, you must reset your password immediately.
+
+Please use the secure Microsoft reset page:
+https://outlook.microsoft.com/reset
+
+Failure to act by end of day will result in temporary account suspension.
+
+Regards,  
+Contoso Corp IT Support
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear employee,</p>
+    <p>We've detected unusual activity on your email account. To prevent any unauthorized access, please reset your password immediately.</p>
+    <p><b>Click here to reset:</b><br>
+    <a href="http://contos0-reset.com/reset?id=83921">https://outlook.microsoft.com/reset</a></p>
+    <p>If not completed by <b>end of day</b>, your access may be temporarily suspended.</p>
+    <p>Thank you,<br>
+    <i>Contoso Corp IT Support</i></p>
+  </body>
+</html>
+
+--BOUNDARY--
